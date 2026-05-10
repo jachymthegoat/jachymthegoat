@@ -1,7 +1,7 @@
 ## Ahoj, jmenuji se Jáchym👋
 
 💻 Student 2. ročníku softwarového inženýrství na Fakultě aplikovaných věd.💛<br/>
-⌨️ Srdcem frontendista, ale backendovou logiku nejraději řeším v C# a C.<br/>
+⌨️ Tíhnu především k JavaScript/TypeScript a Pythonu, ale baví mě i tvorba v C# a C.<br/>
 🤼 Ve volném čase se věnuji bojovým sportům.<br/>
 🎥 Můžete mě kontaktovat i na [Instagramu](https://www.instagram.com/jachymthegoat/).
 
